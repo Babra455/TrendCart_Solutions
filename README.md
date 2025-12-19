@@ -20,10 +20,11 @@ v.	To examine sales trends over time and identify patterns in revenue generation
 --- 
  
 ## Datasets 
--  **Patients.csv ** -  This dataset contains transactional and customer data with columns including transaction_id, sales_date, sales_time, cogs, customer_id, gender, age, category, quantity, price_per_unit, and total_sale. It provides information on sales performance, product profitability, and customer behavior, enabling analysis of revenue trends, purchasing patterns, and key drivers of business performance.
+- Patients.csv -  This dataset contains transactional and customer data with columns including transaction_id, sales_date, sales_time, cogs, customer_id, gender, age, category, quantity, price_per_unit, and total_sale. It provides information on sales performance, product profitability, and customer behavior, enabling analysis of revenue trends, purchasing patterns, and key drivers of business performance.
 --- 
 ## Dashboard Features 
-Although a visual dashboard was not created, the SQL analysis provides key insights that could be displayed on one. These include total sales and revenue trends, customer distribution by gender and age, top-selling product categories, profitability metrics such as cogs and gross margin, and transaction patterns over time. These insights help identify high-performing products, peak sales periods, and opportunities to improve overall business performance.
+- Although a visual dashboard was not created, the SQL analysis provides key insights that could be displayed on one. 
+- These include total sales and revenue trends, customer distribution by gender and age, top-selling product categories, profitability metrics such as cogs and gross margin, and transaction patterns over time. These insights help identify high-performing products, peak sales periods, and opportunities to improve overall business performance.
 
 --- 
 ## Key Findings
