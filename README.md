@@ -4,8 +4,7 @@
 --- 
  
 ## Project Background 
-
-    TrendCart Solutions is a retail business. This analysis examines transactional data to understand sales trends, customer behavior, product performance, and profitability. By identifying key patterns such as high-performing products, customer segments, and bundled purchases, the analysis provides actionable insights to improve decision-making and overall business performance.
+- TrendCart Solutions is a retail business. This analysis examines transactional data to understand sales trends, customer behavior, product performance, and profitability. By identifying key patterns such as high-performing products, customer segments, and bundled purchases, the analysis provides actionable insights to improve decision-making and overall business performance.
 --- 
  
 ## Project Objective 
@@ -21,8 +20,7 @@ v.	To examine sales trends over time and identify patterns in revenue generation
 --- 
  
 ## Datasets 
-
-    **Patients.csv ** -  This dataset contains transactional and customer data with columns including transaction_id, sales_date, sales_time, cogs, customer_id, gender, age, category, quantity, price_per_unit, and total_sale. It provides information on sales performance, product profitability, and customer behavior, enabling analysis of revenue trends, purchasing patterns, and key drivers of business performance.
+-  **Patients.csv ** -  This dataset contains transactional and customer data with columns including transaction_id, sales_date, sales_time, cogs, customer_id, gender, age, category, quantity, price_per_unit, and total_sale. It provides information on sales performance, product profitability, and customer behavior, enabling analysis of revenue trends, purchasing patterns, and key drivers of business performance.
 --- 
 ## Dashboard Features 
 Although a visual dashboard was not created, the SQL analysis provides key insights that could be displayed on one. These include total sales and revenue trends, customer distribution by gender and age, top-selling product categories, profitability metrics such as cogs and gross margin, and transaction patterns over time. These insights help identify high-performing products, peak sales periods, and opportunities to improve overall business performance.
