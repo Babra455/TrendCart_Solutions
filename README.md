@@ -68,9 +68,8 @@
 ## How to Run / View 
 1.	Open `TrendCart Solutions SQL Script ` in SQL (desktop recommended)   
 2.	Open the SQL script file in your SQL editor.  
-3.	Analysis was done entirely using SQL queries.
-4.	View the results in the query output/results panel for each section of the analysis.
-5.	Refer to `TrendCart Solution Presentation.pdf` for a summary of insights and recommended actions 
+3.	View the results in the query output/results panel for each section of the analysis.
+4.	Refer to `TrendCart Solution Presentation.pdf` for a summary of insights and recommended actions 
  
  
 
