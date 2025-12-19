@@ -8,11 +8,11 @@
 --- 
  
 ## Project Objective 
-i.	To provide a comprehensive understanding of TrendCart Solutions’ retail business performance using transactional, customer, and product data. 
-ii.	To explore customer behavior by analyzing purchasing habits, preferences, and demographic characteristics, identifying key customer segments that contribute most to sales and profit.
-iii.	To evaluate product performance, including profitability, cost efficiency, and the impact of bundled purchases on overall revenue.
-iv.	To generate actionable insights that can guide data-driven decision-making, improve product offerings, enhance customer satisfaction, and support strategies to increase overall business profitability and growth.
-v.	To examine sales trends over time and identify patterns in revenue generation and transaction volumes.
+-  To provide a comprehensive understanding of TrendCart Solutions’ retail business performance using transactional, customer, and product data.
+-  To explore customer behavior by analyzing purchasing habits, preferences, and demographic characteristics, identifying key customer segments that contribute most to sales and profit.
+-  To evaluate product performance, including profitability, cost efficiency, and the impact of bundled purchases on overall revenue.
+-  To generate actionable insights that can guide data-driven decision-making, improve product offerings, enhance customer satisfaction, and support strategies to increase overall business profitability and growth.
+- To examine sales trends over time and identify patterns in revenue generation and transaction volumes.
 
 
 
