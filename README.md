@@ -58,7 +58,7 @@
  
 ## Project Files (included) 
 -	`TrendCart Solutions.pdf` -boardroom slide deck(12 Slides)
--	`/Retail Sales/` — raw data files used for analysis (CSV / XLSX)   
+-	`Retail Sales` — raw data files used for analysis (CSV / XLSX)   
 -	`TrendCart SQL Script` — SQL Query   
 -	`README.md` — this documentation 
 -	`MP_SQL_Project_1` – The problem
