@@ -1,7 +1,5 @@
 CREATE DATABASE trendcart_db;
 
-CREATE DATABASE trendcart_db;
-
 CREATE TABLE retail_sales (
     transaction_id INT PRIMARY KEY,
     sale_date_text VARCHAR(20),      
@@ -27,7 +25,7 @@ UPDATE retail_sales
 SET gender = CASE
     WHEN UPPER(TRIM(gender)) IN ('M', 'MALE') THEN 'Male'
     WHEN UPPER(TRIM(gender)) IN ('F', 'FEMALE') THEN 'Female'
-    ELSE NULL  -- optional: set unknowns to NULL
+    ELSE NULL  
 END;
 
 SELECT sale_date_text
@@ -86,7 +84,7 @@ ORDER BY total_revenue DESC
 LIMIT 10;
 
 
--- By gender
+-- Gender
 SELECT 
     gender,
     SUM(total_sale) AS revenue,
@@ -95,7 +93,7 @@ SELECT
 FROM retail_sales
 GROUP BY gender;
 
--- By age group (example: 10-year bins)
+-- Age Group
 SELECT 
     CASE 
         WHEN age BETWEEN 0 AND 19 THEN '0-19'
@@ -111,7 +109,7 @@ FROM retail_sales
 GROUP BY age_group
 ORDER BY age_group;
 
--- Overall profitability
+-- Overall profit
 SELECT 
     SUM(total_sale) AS total_revenue,
     SUM(cogs) AS total_cost,
@@ -141,27 +139,6 @@ FROM retail_sales
 GROUP BY category
 ORDER BY profit DESC;
 
-
-
-
--- Monthly trend
-SELECT 
-    sale_year,
-    sale_month,
-    SUM(total_sale) AS revenue,
-    SUM(profit) AS profit
-FROM retail_sales
-GROUP BY sale_year, sale_month
-ORDER BY sale_year, sale_month;
-
--- Daily trend
-SELECT 
-    sale_date,
-    SUM(total_sale) AS revenue,
-    SUM(profit) AS profit
-FROM retail_sales
-GROUP BY sale_date
-ORDER BY sale_date;
 
 
 -- Average quantity per transaction
