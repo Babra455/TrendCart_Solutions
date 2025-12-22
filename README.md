@@ -32,16 +32,18 @@
 2.	Revenue and profit show strong seasonal trends, peaking during the months of September to December each year, with December 2024 recording the highest overall performance, indicating significant end-of-year demand
 3.	The product categories of Clothing, Electronics, and Beauty consistently outperform others in both revenue and profit, while maintaining high profit margins, highlighting these categories as key drivers of business performance.
 4.	Female customers generate slightly higher revenue overall, whereas male customers deliver marginally higher profit, showing that purchasing value is relatively similar across genders.
-5.	Small bundle purchases account for the highest transaction volumes and contribute the most to profitability, making bundled products an important focus for sales and marketing strategies.
+5. Sales peak during evening hours, with hour 19 generating the highest revenue and profit, while hour 23 records the lowest performance. By day, day 10 shows the strongest sales, whereas day 31 has the lowest revenue and profit, indicating reduced activity toward month-end and late-night periods.
+6.	Small bundle purchases account for the highest transaction volumes and contribute the most to profitability, making bundled products an important focus for sales and marketing strategies.
 
 --- 
 ## Recommendations 
-1.	Target the most valuable customers—those with the highest transaction counts and revenue—through loyalty programs, personalized offers, and priority support to improve retention and drive repeat purchases.
-2.	Align staffing, inventory, and promotional activities with peak months (e.g., September–December) to maximize sales and profit. Introduce off-season promotions to boost performance during slower months like January–March.
-3.	Tailor marketing campaigns to high-value age groups, particularly customers aged 50+, who contribute the most revenue and profit. Consider targeted promotions for other profitable segments, such as customers aged 30–49, to increase engagement.
-4.	Focus on promoting and expanding bundled offerings through targeted pricing and marketing to boost sales frequency and profitability.
-5.	Allocate more marketing and inventory resources to Clothing, Electronics, and Beauty, as they consistently generate the highest revenue and profit. Consolidate minor or duplicate category entries to maintain clean, actionable data.
-6.	Continue prioritizing products and categories with strong profit margins, such as Electronics, Clothing, and Beauty. Review lower-margin items and consider adjusting pricing, reducing costs, or discontinuing underperforming products to maximize overall profitability.
+1.Concentrate staffing and promotions around hour 19 and high-performing days such as day 10, while minimizing resources during hour 23 and low-performing days like day 31 to optimize sales and operational efficiency.
+2.	Target the most valuable customers—those with the highest transaction counts and revenue—through loyalty programs, personalized offers, and priority support to improve retention and drive repeat purchases.
+3.	Align staffing, inventory, and promotional activities with peak months (e.g., September–December) to maximize sales and profit. Introduce off-season promotions to boost performance during slower months like January–March.
+4.	Tailor marketing campaigns to high-value age groups, particularly customers aged 50+, who contribute the most revenue and profit. Consider targeted promotions for other profitable segments, such as customers aged 30–49, to increase engagement.
+5.	Focus on promoting and expanding bundled offerings through targeted pricing and marketing to boost sales frequency and profitability.
+6.	Allocate more marketing and inventory resources to Clothing, Electronics, and Beauty, as they consistently generate the highest revenue and profit. Consolidate minor or duplicate category entries to maintain clean, actionable data.
+7.	Continue prioritizing products and categories with strong profit margins, such as Electronics, Clothing, and Beauty. Review lower-margin items and consider adjusting pricing, reducing costs, or discontinuing underperforming products to maximize overall profitability.
 
 
  
