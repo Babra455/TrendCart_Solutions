@@ -37,7 +37,7 @@
 
 --- 
 ## Recommendations 
-1.Concentrate staffing and promotions around hour 19 and high-performing days such as day 10, while minimizing resources during hour 23 and low-performing days like day 31 to optimize sales and operational efficiency.
+1. Concentrate staffing and promotions around hour 19 and high-performing days such as day 10, while minimizing resources during hour 23 and low-performing days like day 31 to optimize sales and operational efficiency.
 2.	Target the most valuable customers—those with the highest transaction counts and revenue—through loyalty programs, personalized offers, and priority support to improve retention and drive repeat purchases.
 3.	Align staffing, inventory, and promotional activities with peak months (e.g., September–December) to maximize sales and profit. Introduce off-season promotions to boost performance during slower months like January–March.
 4.	Tailor marketing campaigns to high-value age groups, particularly customers aged 50+, who contribute the most revenue and profit. Consider targeted promotions for other profitable segments, such as customers aged 30–49, to increase engagement.
